@@ -8,3 +8,9 @@ makeNiceStem(n, x1, 'x_1', "x_1[n] = sen(pi*n/4)cos(pi*n/4)", 'n', 'x_1[n]');
 makeNiceStem(n, x2, 'x_2', "x_2[n] = cos(pi*n/4) ^ 2", 'n', 'x_2[n]');
 
 makeNiceStem(n, x3, 'x_3', "x_3[n] = sen(pi*n/4)cos(pi*n/8)", 'n', 'x_3[n]');
+
+%{
+	a) período de x_1 é 4
+	b) período de x_2 é 4
+	c) período de x_3 é 16
+}%
